@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^3.9.3",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "coinbase": "^2.0.8",
     "d3": "^5.9.2",
     "d3-geo": "^1.11.3",
